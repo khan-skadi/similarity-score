@@ -8,3 +8,7 @@
 
     clone repo
     'yarn install'
+
+#### How to Use
+
+    use 'node index' to print results in console
